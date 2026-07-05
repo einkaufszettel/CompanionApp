@@ -12,8 +12,8 @@ In diesem Semester möchte ich mich auf die Grundlagen der Informatik und die Ve
   1. Die Studierenden können grundlegende Berechnungsmodelle und algorithmische Techniken aus der Informatik benennen und deren Funktionsweisen und Besonderheiten erläutern sowie deren Einsatzmöglichkeiten und Grenzen erklären.
   2. Die Studierenden können korrekte formale Problembeschreibungen zu gegebenen Steuerungs- und Berechnungsprobleme formulieren.
 ## Studenplan ##
+DAs Ziel ist nur 
 |Zeitten|Montag|Dienstag|Mittwoch|Donnerstag|Freitag|
-|-------|------|--------|--------|----------|-------|
+|:-----:|:----:|:------:|:------:|:--------:|:------|
 |08:00-09:30|  |Theoretische|  |Praktische|  |
 |09:50-11:20|  | Theoretische|  |Praktische|  |
-|-------|------|--------|--------|-----------|------|
