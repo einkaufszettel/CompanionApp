@@ -1,6 +1,6 @@
 # Praktische Informatik 1 #
 ## Hausübung 1 ##
-### Aufgabe 2 ###
+### Aufgabe 3 ###
 **Fetter Text**  
 *Kursiver Text*  
 **_Fetter und kursiver Text_*  
