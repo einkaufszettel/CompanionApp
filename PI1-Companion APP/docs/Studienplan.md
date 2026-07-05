@@ -14,6 +14,12 @@ In diesem Semester möchte ich mich auf die Grundlagen der Informatik und die Ve
 ## Studenplan ##
 DAs Ziel ist nur 
 |Zeitten|Montag|Dienstag|Mittwoch|Donnerstag|Freitag|
-|:-----:|:----:|:------:|:------:|:--------:|:------|
+|:-----:|:----:|:------:|:------:|-------:|:-----:|
 |08:00-09:30|  |Theoretische|  |Praktische|  |
 |09:50-11:20|  | Theoretische|  |Praktische|  |
+## To-Do_List für das Semester 2026
+* [ ] Literatur für alle Module besorgen
+* [ ] Zeitplan anpassen und Pausen ainplanen
+* [ ] Lerngruppen finden
+* [ ] Übungsaufgaben aus Proammieieren 1 bearbeiten
+* [x] Übungsaufgabe aus Praktische Informatik 1 bearbeiten
