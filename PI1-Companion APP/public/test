@@ -1,1 +1,28 @@
-
+<!DOCTYPE html>
+<html>
+  <head>
+    <titel>PI1-Companion App</titel>
+    <meta charset="utf-8">
+  </head>
+  
+  <body>
+    <header>
+      <li>
+                <a href="linklist.html">Links</a>
+                <a href="Media.html">Media</a>
+                <a href="Memes.html">Memes</a>
+                <a href="Reiseplanung.html">Reiseplanung</a>
+                <a href="dialog.html">Dialog</a>
+                <a href="profile.html">profile</a>
+            </li>
+    </header>
+<h1>Über uns</h1>
+                <article>
+                    <img src="images/photo_2026-04-24_12-05-10.jpg">
+                    <p>Über Lea: <br>
+                    Lea ist khdflldslksdffsdölsdfösofksök<br>
+                    Leo ist lsdjfl fg dfgkfg<br>
+                    </p>
+                </article>
+  </body>
+</html>
